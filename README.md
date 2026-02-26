@@ -1,0 +1,1 @@
+# Reserve-Table\n\n**SYNERGY: Cloud Reservation API - High-availability server-side REST API using Java Spring Boot handling concurrent booking logic.**\n\n## Tech Stack\n- Java\n- Spring Boot\n- AWS\n- MySQL\n- Docker\n
